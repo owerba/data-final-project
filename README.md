@@ -1,4 +1,4 @@
-#Final Project
+Final Project
 
 Contains 3 zip files that are unzipped by running the main code (.ipynb file), all from NEON
 They contain initial soil data, megapit soil data, and foliar data for the 47 terrestrial sites in the NEON database 
